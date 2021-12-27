@@ -1,7 +1,7 @@
 import time, datetime
 import pandas as pd
 
-from ejercices import ejercicio4, ejercicio1, ejercicio3, ejercicio2
+from exercices import ejercicio4, ejercicio1, ejercicio3, ejercicio2
 
 base_url = 'https://query1.finance.yahoo.com/v7/finance/download/'
 destination_folder = './data/'
